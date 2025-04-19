@@ -1,0 +1,11 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "database": "${workspaceFolder:todolist}/todos.db",
+            "name": "todos"
+        }
+    ],
+    "sqltools.useNodeRuntime": true
+}
